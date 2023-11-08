@@ -1,6 +1,6 @@
 {
   "name": "leaflet-gpx-coords",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "As leaflet-gpx, with additinal method 'get_coords()' for exporting the coordinate (lat/long) data ",
   "main": "gpx.js",
   "scripts": {
